@@ -89,16 +89,22 @@ p {
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+    /*aligned text to center*/
+    text-align: center;
 }
 
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
+    /*aligned text to center*/
+    text-align: center;
 }
 
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
+    /*aligned text to center*/
+    text-align: center;
 }
 
 .benefit-lead h3 {
