@@ -22,5 +22,6 @@ At the end of the project it is required to turn the URL of the deployed applica
 Below are the changes made in my html file.
 
 ..*
-Title was changed from ``website`` to _Horseon_
+Title was changed from ~~website~~ to **Horseon**
+
 
