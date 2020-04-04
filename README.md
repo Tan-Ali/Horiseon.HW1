@@ -21,6 +21,8 @@ At the end of the project it is required to turn the URL of the deployed applica
 
 Below are the changes made in my html file.
 
-..* Title was changed from ~~website~~ to **Horseon**
-Body
+* Title was changed from ~~website~~ to **Horseon**
+* Header was changed from ~~div~~ to **Header**
+* Nav was add inside of Header. Was also changed from ~~div~~ to **Nav**
+* 
 
