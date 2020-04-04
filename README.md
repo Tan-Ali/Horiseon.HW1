@@ -19,17 +19,27 @@ At the end of the project it is required to turn the URL of the deployed applica
 
 ## HTML Changes
 
-Below are the changes made in my html file.
+Below are the changes made in html file:
 
 * Title was changed from ~~website~~ to **Horseon**
 * Header was changed from ~~div~~ to **Header**
 * Nav was add inside of Header. Was also changed from ~~div~~ to **Nav**
 * Main was changed from ~~div~~ to **Main**. Also added **img** inside with **class tag** into first main
 * In second main, added article, changed from ~~div~~ to **Article**
-Also changed **class= to id= for SEO**
+Also added **id= for SEO**
 * In second main, all **img were changed to relative path and added alt**
 * Added third main, and added articles inside main. ~~Div~~ changed to **Main and Articles**
 * In third main, **img were changed to relative path and added alt**
 * Footer was changed from ~~div~~ to **Footer**
+
+## CSS Changes
+
+Below are the changes made in css file:
+
+* Changed ~~.header div~~ to **.header nav**
+* Changed ~~.header div ul~~ to **.header nav ul**
+* Changed ~~.header div ul li~~ to **.header nav ul li**
+* **Text-Aligned: center** benefit lead/brand/cost
+
 
 
