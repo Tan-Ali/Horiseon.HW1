@@ -17,4 +17,10 @@ THEN I find a concise, descriptive title
 ```
 At the end of the project it is required to turn the URL of the deployed application and the URL of the GitHub repository with a README in to Bootcamp Spot.
 
-## 
+## HTML Changes
+
+Below are the changes made in my html file.
+
+..*
+Title was changed from ``website`` to _Horseon_
+
